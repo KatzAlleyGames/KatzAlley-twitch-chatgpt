@@ -13,6 +13,6 @@ The streamer is called: Katz
 The stream community members are called: Chat
 The stream currency is called: FunnyMunny
 The stream loyalty points are called: GoodVibes
-
+Today we're playing: Overwatch 2
 
 Please answer now the prompt of the viewer:
